@@ -1,0 +1,77 @@
+(All times in milliseconds)
+
+Coordinates:,-2.0,1.0,1.125,-1.125
+Iterations:,500
+
+GPU
+39
+
+CPU - 4 Threads,CPU - 8 Threads,CPU - 16 threads
+956,688,512
+
+CPU - 4 Threads,,,,CPU - 8 Threads,,,,CPU - 16 Threads
+16 tasks,50 tasks,200 tasks,,16 tasks,50 tasks,200 tasks,,16 tasks,50 tasks,200 tasks,
+659,657,669,,498,483,510,,533,448,449
+
+Iterations:,1000
+
+GPU
+72
+
+CPU - 4 Threads,CPU - 8 Threads,CPU - 16 threads
+1701,1302,997
+
+CPU - 4 Threads,,,,CPU - 8 Threads,,,,CPU - 16 Threads
+16 tasks,50 tasks,200 tasks,,16 tasks,50 tasks,200 tasks,,16 tasks,50 tasks,200 tasks,
+1329,1242,1260,,1042,1026,1018,,1025,868,885
+
+Iterations:,2000
+
+GPU
+152
+
+CPU - 4 Threads,CPU - 8 Threads,CPU - 16 threads
+3499,2561,1944
+
+CPU - 4 Threads,,,,CPU - 8 Threads,,,,CPU - 16 Threads
+16 tasks,50 tasks,200 tasks,,16 tasks,50 tasks,200 tasks,,16 tasks,50 tasks,200 tasks,
+2585,2519,2520,,2104,1965,1881,,2050,1703,1673
+
+Coordinates:,-0.751085,-0.734975,0.118378,0.134488
+Iterations:,500
+
+GPU
+114
+
+CPU - 4 Threads,CPU - 8 Threads,CPU - 16 threads
+1408,1001,902
+
+CPU - 4 Threads,,,,CPU - 8 Threads,,,,CPU - 16 Threads
+16 tasks,50 tasks,200 tasks,,16 tasks,50 tasks,200 tasks,,16 tasks,50 tasks,200 tasks,
+1325,1278,1265,,975,970,939,,901,877,802
+
+Iterations:,1000
+
+GPU
+141
+
+CPU - 4 Threads,CPU - 8 Threads,CPU - 16 threads
+2346,1684,1505
+
+CPU - 4 Threads,,,,CPU - 8 Threads,,,,CPU - 16 Threads
+16 tasks,50 tasks,200 tasks,,16 tasks,50 tasks,200 tasks,,16 tasks,50 tasks,200 tasks,
+2145,2093,2075,,1777,1582,1487,,1490,1414,1344
+
+Iterations:,2000
+
+GPU
+248
+
+CPU - 4 Threads,CPU - 8 Threads,CPU - 16 threads
+4042,2864,2425
+
+CPU - 4 Threads,,,,CPU - 8 Threads,,,,CPU - 16 Threads
+16 tasks,50 tasks,200 tasks,,16 tasks,50 tasks,200 tasks,,16 tasks,50 tasks,200 tasks,
+3725,3509,3470,,2804,2934,2656,,2538,2477,2317
+Write to TGA file
+154
